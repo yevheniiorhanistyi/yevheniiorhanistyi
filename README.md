@@ -1,6 +1,7 @@
+### Hi there :wave:
 ### I'm
 
-![](img/intro-title.gif)
+![Title gif](img/intro-title.gif)
 
 <div align="center">
   <div id='badges'>
@@ -20,6 +21,17 @@
 ### About me
 <p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" alt="gif" align="right"/>  I'm <b>Yevhenii</b> from Ukraine,  and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React.. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
+  
+#### Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,git,js,react)](https://skills.thijs.gg)
+
+### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yevheniiorhanistyi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniiorhanistyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevheniiorhanistyi&hide=contribs,issues&show_icons=true&theme=vision-friendly-dark)
 
 
   
