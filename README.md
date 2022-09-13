@@ -18,7 +18,8 @@
 </div>
 
 ### About me
-<p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" alt="gif" align="right"/>  I'm <b>Yevhenii</b> from Ukraine,  and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" alt="gif" align="right"/>  I'm <b>Yevhenii</b> from Ukraine,  and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React.  <img src="img/icons8-react-native-48.png" width="24" height="24" alt='React' />  I take great care in the experience, architecture, and code quality of the things I build.</p>
+
 
 
   
