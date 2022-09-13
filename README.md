@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/just_zhenia_/">
        <img src="https://img.shields.io/badge/-Instagram-orange?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.facebook.com/zhenya.orhanistyi">
+    <a href="https://www.facebook.com/zhenya.orhanistyi/">
         <img src="https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
