@@ -4,13 +4,13 @@
 
 <div align="center">
   <div id='badges'>
-    <a href="your-twitter-URL">
+    <a href="https://www.linkedin.com/in/yevhenii-orhanistyi-819094224/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.instagram.com/just_zhenia_/">
        <img src="https://img.shields.io/badge/-Instagram-orange?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.facebook.com/zhenya.orhanistyi">
         <img src="https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
@@ -18,7 +18,7 @@
 </div>
 
 ### About me
-<p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" alt="gif" align="right"/>  I'm <b>Yevhenii</b> from Ukraine,  and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React. I take great care in the experience, architecture, and code quality of the things I build.</p>
+<p><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" alt="gif" align="right"/>  I'm <b>Yevhenii</b> from Ukraine,  and I am a passionate self-taught frontend developer. I really enjoy learning languages and frameworks like React.. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 
 
