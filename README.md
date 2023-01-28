@@ -23,7 +23,7 @@
 
   
 #### Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,git,js,react)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,ts,js,react,redux)](https://skillicons.dev)
 
 ### My Stats :
 
